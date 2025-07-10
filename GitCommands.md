@@ -2,7 +2,7 @@
 ### Saving to Git
 ```
 git status
-git add .
+git add . (add al my files na github maar nie stuur nie)
 git commit -m "My message to help me remeber what I did"
 git push
 ```
