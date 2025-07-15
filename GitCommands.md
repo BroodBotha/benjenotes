@@ -29,3 +29,18 @@ git push
 **Check on github if my changes are there**
 ```
 [Mosh Beginner Guide](https://www.youtube.com/watch?v=8JJ101D3knE&t=1258s)
+
+### Git Branching
+```
+Check local branch
+    - git branch
+Change to a branch
+    - git checkout <my_branch_name>
+Check branch on repo
+    - git branch -r
+List of current branches
+    - git branch -a
+Tell remote repo about local branch
+    - git push -u origin <my_branch_name>
+    
+```
